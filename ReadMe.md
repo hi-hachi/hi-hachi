@@ -1,12 +1,12 @@
 # Hello World! :poop:
 **I'm hachi** - I'm learning programming, and student.
 <br>
-I work on @karaage5 in my free time. :smile:
+I work on [@karaage5](https://github.com/karaage5) in my free time. :smile:
 <br>
 
 
 # Skills :smile:
-## :fire:
+## OK :fire:
 [![My Skills](https://skillicons.dev/icons?i=html,css,py,wordpress,)](https://skillicons.dev)
 
 ## Learning :memo: 
