@@ -1,4 +1,4 @@
-# Hello World! :poop:
+# Hello World! 
 **I'm hachi** - I'm learning programming, and student.
 <br>
 I work on [@karaage5](https://github.com/karaage5) in my free time. :smile:
